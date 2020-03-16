@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="tajamcss.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+  <div class="home" id="home">
+    <div class="bar">
+     <img src="tajamtrans.png">
+       <a href="#contact">CONTACT</a>
+       <a href="#peopleSay">PEOPLE SAY</a>
+       <a href="#works">WORKS</a>
+       <a href="#team">TEAMS</a>
+       <a href="#expertise">EXPERTISE</a>
+       <a href="#about">ABOUT</a>
+       <a href="#home">HOME</a>
+    </div>
+<br>
+
+
+<div class="slideshow">
+
+      <h1>We Are Awesome Creative Agency</h1>
+      <hr align="center" width="5%" color="#00FFFF">
+      <p>
+  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.
+     </p>
+
+    <a href ="#about"> <button class="button">
+  LEARN MORE
+</button></a>
+<br><br>
+   </div >
+
+   <a class="prev">&#10094;</a>
+   <a class="next">&#10095;</a>
+
+ <br>
+
+
+ <div style="text-align:center">
+   <span class="dot"></span>
+   <span class="dot"></span>
+   <span class="dot"></span>
+ </div>
+</div>
+
+
+
+
+
+
+
+  <div id="about" class="about">
+    <br><br><br><br>
+<div class="boxone"><img src="tajam.png"></div>
+<br>
+    <div class="boxtwo"><h2>OUR STORY</h2>
+
+    <p>
+    This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.<br><br>
+     Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+    </p>
+  </div>
+  <h4>
+    LEARN MORE
+  </h4>
+  </div>
+
+
+<br><br><br><br><br>
+  <div class="video">
+
+           <a href="https://google.com"><button ><img src="videotext.png"></img></button></a>
+
+  </div>
+
+
+
+    <div id="expertise" class="exp">
+      <h2>Expertise</h2>
+      <h4>Lorem ipsum dolor sit amet proin gravida nibh vel velit</h4>
+      <br>
+      <hr align="center" width="5%" color="grey">
+
+      <div class="floating-box  ">
+        <br><br>
+        <img src="WDandD.png" ></img>
+        <h3>WEB DESIGN AND DEVLOPMENT</h3>
+          <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+      </div>
+      <div class="floating-box right left ">
+        <br><br>
+      <img src="BI.png" ></img>
+          <h3>BRANDING IDENTITY</h3>
+          <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+      </div>
+      <div class="floating-box ">
+        <img src="MA.png"></img>
+        <h3>MOBILE APP</h3>
+        <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+      </div>
+      <hr class="border" color="#00FFFF" width="75%">
+      <div class="floating-box ">
+        <img src="SEO.png" ></img>
+         <h3>SEARCH ENGINE OPTIMIZATION</h3>
+          <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+      </div>
+      <div class="floating-box right left">
+        <img src="GD.png" ></img>
+        <h3>GAME DEVELOPMENT</h3>
+        <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+      </div>
+      <div class="floating-box">
+        <img src="MWL.png" ></img>
+        <h3>MADE WITH LOVE</h3>
+          <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+      </div>
+    </div>
+
+
+    <div id="team" class="team">
+      <br>
+      <br>
+      <h3>MEET OUR AMAZING TEAM</h3>
+      <h5>Lorem ipsum dolor sit amet proin gravida nibh vel velit</h5>
+
+      <hr align="center" width="5%" color="grey">
+<br>
+      <div class="members left">
+      <img src="avatar1.png"><br>
+         <div class="text">
+           <h4>SEMF UCUK</h4>CEO & FOUNDER
+         </div>
+      </div>
+      <div class="members">
+        <img src="avatar2.png"><br>
+           <div class="text">
+             <h4>DIK ADALIN</h4>ENGINEERING
+           </div>
+      </div>
+      <div class="members">
+        <img src="avatar3.png"><br>
+           <div class="text">
+             <h4>SEMF JENG KOL</h4>DESIGNER
+           </div>
+      </div>
+      <div class="members right">
+        <img src="avatar4.png"><br>
+           <div class="text">
+             <h4>PET ROMAK</h4>MARKETING
+           </div>
+      </div>
+
+
+      <br>
+      <h6>Become part of our dream team, let's join us !</h6>
+      <a href="#about">  <button type="submit" class="button">
+          <span>We Are Hiring!</span>
+        </button></a><br><br>
+    </div>
+
+    <div id="works" class="works">
+
+      <h2>OUR WORKS</h2>
+
+      <a href="#about">See all projects in dribble </a>
+
+      <img src="worksbg.png" height="350px" width="1500px"></img>
+<br>
+      <h4>
+        LOAD  MORE
+      </h4>
+    </div>
+
+
+    <div class="note">
+      <div class="fixed">
+      <img src="quote.png" class="quote"></img>
+      <br>
+      <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit.
+      </p><h3>JANE GALADRIEL</h3>
+      <h5>CEO TENGKUREP</h5>
+       </div>
+<div class="fixed">
+  <img src="buttongrp.png">
+</div>
+
+</div>
+
+
+    <div id="peopleSay" class="peopleSay">
+      <div class="column">
+      <h2>GIVE US A GOOD NEWS</h2><br><br>
+      <form>
+        <input type="text" placeholder="Name"><br><br>
+        <input type="text" placeholder="Email"><br><br>
+        <input type="text" placeholder="Subject"><br><br>
+        <textarea placeholder="Message"></textarea><br><br><br>
+        <a href ="#about"> <button class="button">
+      SUBMIT
+    </button></a>
+      </form>
+    </div>
+    <div class="column">
+<h2>OUR HAPPY CLIENTS</h2>
+
+    <a href="https://zara.com"><button><img src="zara.png" width="150px" height="60px" class="image" ></img></button></a>
+    <a href="https://shop.mango.com/preHome.faces"><button><img src="mango.png" width="150px" height="60px" class="image" ></img></button></a>
+    <a href="https://www.barneys.com/"><button><img src="bn.png" width="150px" height="60px" class="image" ></img></button></a>
+    <a href="https://www.gucci.com/int/en/"><button><img src="gucci.png" width="150px" height="60px" class="image" ></img></button></a>
+    <a href="http://explore.calvinklein.com/en_US/explore"><button><img src="ck.png" width="150px" height="60px" class="image" ></img></button></a>
+    <a href="https://nike.com"><button><img src="nike.png" width="150px" height="60px" class="image" ></img></button></a>
+    <a href="https://www.converse.com/us/en_us/c/converse"><button><img src="converse.png" width="150px" height="60px" class="image" ></img></button></a>
+    <a href="https://in.puma.com/"><button><img src="puma.png" width="150px" height="60px" class="image" ></img></button></a>
+    <a href="http://m.levi.com/US/en_US/"><button><img src="levis.png" width="150px" height="60px" class="image" ></img></button></a>
+    <a href="https://us.billabong.com/global_home.htm"><button><img src="bb.png" width="150px" height="60px" class="image" ></img></button></a>
+
+    </div>
+  </div>
+
+
+    <div id="contact" class="contact">
+
+      <div class="column">
+        <img src="tajamtrans.png">
+        lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh elit. Duis sed odio sit amet auctror a ornare odio non mauris vitae erat in elit
+<br><br><br><br>
+<div class="col">PRIVACY</div>
+<div class="col">TERMS & CONDITION </div>
+<div class="col"> HELP </div>
+<div class="col">By Md Saif Alam</div>
+            </div>
+
+
+      <div class="column">
+
+        <h3>OUR STUDIO</h3>
+        <img src="pointer.png" height=20px></img>Ruko cucruk, Jl. Radio luar dalem jos No.12 - 13, Kalideres - Jakarta Barat
+  11480 - Indonesia<br><br>
+  <br>
+  <img src="phone.png" height=20px></img>
+  (+62) 21-2224 3333
+      </div>
+      <div class="column">
+
+      <h3>  STAY IN TOUCH</h3>
+
+
+      <form class="search" action="https://google.com">
+        <input type="text" placeholder="Search..">
+        <button type="submit" class="button">Enter</button><br><br>
+      </form>
+<br><br>
+      <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+      <a href="https://www.twitter.com/" class="fa fa-twitter"></a>
+      <a href="https://www.google.com/" class="fa fa-google "></a>
+      <a href="https://www.youtube.com/" class="fa fa-youtube "></a>
+      <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
+      <a href="https://www.skype.com/" class="fa fa-skype"></a>
+      <a href="https://www.dribbble.com/" class=" fa fa-dribbble"></a>
+
+      </div>
+
+
+
+
+</div>
+</body>
+</html>

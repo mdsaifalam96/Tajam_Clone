@@ -1,0 +1,534 @@
+
+
+  .home
+{
+  background-image: url(topbg.jpg);
+  height: 500px;
+width:1500px;
+  color:white;
+}
+
+.home .bar img{
+margin-left:300px;
+}
+
+.home .bar a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 25px 25px;
+  font-size: 17px;
+}
+
+.home .bar a:hover {
+
+    color: #00FFFF;
+    border-bottom: 3px solid #00FFFF;
+}
+
+
+.home .bar {
+    background-color: #130033;
+    position: fixed;
+    width: 1500px;
+    transition: top 0.3s;
+    opacity:0.80;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 35%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: black;
+}
+
+
+.dot {
+  cursor:pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 20%;
+  display: inline-block;
+  transition: 0.6s ease;
+
+}
+
+.dot:hover {
+  background-color: #00FFFF;
+}
+
+
+.home h1{
+
+    margin-top: 100px;
+    margin-left: 375px;
+    margin-right: 375px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.home p{
+
+    margin-top:25px ;
+    margin-left: 375px;
+    margin-right: 375px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.home button{
+  padding: 13px 25px;
+    font-size: 10px;
+    text-align: center;
+    cursor: pointer;
+    color: #00FFFF;
+    background-color:transparent;
+    border-radius: 5px;
+    margin-left:690px;
+    border-color: #00FFFF;
+
+}
+
+.home button:hover {
+  background-color: white;
+  border: 1px solid rebeccapurple;
+  color: #00FFFF;
+  animation: ease;
+  font-weight:bold;
+}
+
+
+
+
+
+
+.about
+{
+background-color: white;
+height: 300px;
+width:1500px;
+
+}
+
+.about .boxone{
+  float: left;
+  border: 3px solid white;
+  margin-left: 250px;
+  margin-bottom: 100px;
+  margin-top: auto;
+}
+
+
+.about .boxone img {
+
+    width: 300px;
+    height: 250px;
+
+
+}
+.about .boxtwo {
+
+    color:grey;
+    width: 700px;
+    height: 220px;
+    margin: 10px;
+    border: 3px solid white;
+    margin-left: 750px;
+
+
+}
+
+
+.about h4{
+border:solid #00FFFF ;
+border-radius:6px ;
+font-size: 13px;
+text-align: center;
+color: #00FFFF;
+margin-left: 750px;
+margin-right: 600px;
+padding:10px;
+}
+.about h4:hover {
+  background-color: white;
+  border: 1px solid rebeccapurple;
+  color: rebeccapurple;
+  animation: ease;
+}
+
+
+
+
+
+.video{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-image: url("videobg.png");
+  height:500px;
+  width:1500px;
+}
+
+.video a button{
+  margin-left: 660px;
+  margin-top: 150px;
+  height: 0px;
+  width: 0px;
+
+}
+
+
+.exp
+{
+background-color: white;
+height: 1000px;
+width:1500px;
+
+}
+
+
+.exp .floating-box {
+    display: inline-block;
+    width: 26%;
+    height: 200px;
+    text-align: center;
+    padding:50px 50px;
+
+}
+
+
+.exp h2,h4{
+  text-transform: uppercase;
+ text-align: center;
+}
+
+.exp .floating-box p{
+  text-align: center;
+  font-size: 13px;
+  color: grey;
+}
+
+.exp  .right{
+
+border-right: 2px  solid #00FFFF;
+}
+
+.exp .left{
+
+border-left: 2px  solid #00FFFF;
+}
+
+
+
+
+
+.team{
+  background-image: url(team.jpg);
+  width: 1500px;
+  height: 700px;
+  color: white;
+}
+
+.team h3,h5{
+text-align: center;
+}
+
+
+
+.team .members .text{
+
+border: 1px white solid;
+width:200px;
+text-align: center;
+}
+
+.team .members{
+  width:20%;
+  float:left;
+
+
+}
+
+.team .right{
+  margin-right:150px;
+}
+
+.team .left{
+  margin-left:150px;
+}
+
+.team .members img{
+  width:200px;
+  height:200px;
+}
+
+.team h6{
+text-align: center;
+margin-top:350px;
+}
+
+.team a .button{
+  border:solid #00FFFF ;
+  padding: 10px 10px;
+  font-size: 20px;
+  text-align: center;
+  color: #00FFFF;
+  margin-left: 670px;
+  margin-right: 600px;
+  padding:10px;
+  background-color: white;
+}
+
+.team a .button:hover {
+  background-color: #00FFFF;
+  border: 1px solid #00FFFF;
+  color: white;
+
+}
+
+.team a .button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.team a .button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.team a .button:hover span {
+  padding-right: 25px;
+}
+
+.team a .button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+.works{
+  width: 1500px;
+  height: 500px;
+  background-color: white;
+}
+
+.works h2{
+  margin-left: 200px;
+  float: left;
+}
+
+.works a{
+  float: right;
+  margin-top: 25px;
+
+}
+.works h4{
+  border:solid #00FFFF ;
+  border-radius:6px ;
+  font-size: 13px;
+  text-align: center;
+  color: #00FFFF;
+  margin-left: 600px;
+  margin-right: 600px;
+  padding:10px;
+}
+
+.works h4:hover {
+  background-color: white;
+  border: 1px solid rebeccapurple;
+  color: rebeccapurple;
+  animation: ease;
+}
+
+.note{
+  color:white;
+  background-image: url(testimonials.jpg);
+  height:500px;
+  width:1500px ;
+}
+
+.note .fixed{
+height: 50%;
+}
+
+.note .fixed p{
+  font-size: 20px;
+text-align: center;
+margin-left: 300px;
+margin-right: 300px;
+}
+
+.note .fixed h3{
+text-align: center;
+
+}
+.note .fixed h5{
+  text-align:center;
+}
+
+.note .fixed img{
+margin-left:530px;
+}
+.note .fixed .quote{
+  margin-left: 690px;
+}
+
+.peopleSay{
+
+  background-color: white;
+  height: 500px;
+  width:1500px;
+}
+
+.peopleSay .column {
+  margin: 100px;
+    float: left;
+    width: 30%;
+    margin-left:100px;
+    margin-right: 60px;
+    margin-top:20px;
+}
+
+
+.peopleSay .button{
+  padding: 13px 25px;
+    font-size: 10px;
+    text-align: center;
+    cursor: pointer;
+    color: #00FFFF;
+    background-color:transparent;
+    border-radius: 5px;
+
+    border-color: #00FFFF;
+
+}
+
+.peopleSay .button:hover {
+  background-color: white;
+  border: 1px solid rebeccapurple;
+  color: rebeccapurple;
+  animation: ease;
+}
+.peopleSay .button:active {
+  box-shadow: 0 5px #666;
+
+}
+
+.peopleSay .column .image:active {
+  background-color: #00FFFF;
+  color:white;
+  box-shadow: 0 5px #666;
+
+}
+
+
+
+
+
+
+.contact {
+  background-image: url(foot.jpg);
+  height:400px;
+  width:1500px;
+  color:white;
+
+
+}
+
+.contact .column {
+  margin: 100px;
+    float: left;
+    width: 25%;
+    margin-left:60px;
+    margin-right: 60px;
+}
+
+.contact .column .col{
+
+float:right;
+  margin-left: 30px;
+  width=:15%;
+  font-size:15px;
+}
+
+
+ .contact .column .fa {
+   padding:10px 10px;
+  font-size: 15px;
+  width: 10px;
+  text-align: center;
+  color:white;
+  border: white 1px solid;
+  border-radius: 100%;
+  background-color: transparent;
+}
+
+.contact .column .fa:hover {
+    opacity: 0.7;
+    color: #00FFFF;
+    border-color: #00FFFF;
+}
+
+
+.contact .column form input{
+
+  float: left;
+  width: 30%;
+  padding: 10px;
+  background-color: transparent;
+  font-size: 17px;
+  border: 1px solid grey;
+height:20px;
+  cursor: pointer;
+
+
+}
+
+.contact .column form .button {
+
+  padding:10px 10px;
+ font-size: 15px;
+ width: 80px;
+ text-align: center;
+ color:white;
+ border: white 1px solid;
+ background-color: transparent;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.contact .column form .button:hover {
+    border-color: #00FFFF;
+
+}
+
+.contact .column form .button:active {
+
+  box-shadow: 0 5px #00FFFF;
+
+}
